@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.7.2"
+  }
+}
